@@ -13711,7 +13711,7 @@ const v1 = [
               "Pipeline reliability and observability",
             ],
             nvidia:
-              "RAPIDS (cuDF / cuML) GPU-accelerated ETL and NVIDIA infrastructure enable near-real-time insight delivery across the full .da product suite.",
+              "RAPIDS (cuDF / cuML), GPU-accelerated ETL and NVIDIA infrastructure enable near-real-time insight delivery across the full .da product suite.",
           },
           {
             title: "LLM Application Layer",
