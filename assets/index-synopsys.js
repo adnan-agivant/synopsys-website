@@ -13659,7 +13659,7 @@ const v1 = [
             mandate:
               "Integrate AgentEngineer with NVIDIA NIM/NeMo Agent Toolkit and orchestrate full design-to-manufacturing flows.",
             icon: a1,
-            desc: "Design and build the orchestration layer coordinating EDA agents under a master controller. Covers 30–40% of chip-build effort via spec-to-RTL workflows — the highest-velocity entry point.",
+            desc: "Design and build the orchestration layer coordinating EDA agents under a master controller. Covers 30–40% of chip-build effort via spec-to-RTL workflows.",
             roles: [
               "Solution Architects",
               "Platform Engineering",
